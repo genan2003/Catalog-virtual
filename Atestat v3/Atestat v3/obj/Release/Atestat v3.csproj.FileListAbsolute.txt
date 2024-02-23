@@ -1,0 +1,24 @@
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\bin\Release\Atestat v3.exe.config
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\bin\Release\Atestat v3.exe
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\bin\Release\Atestat v3.pdb
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\bin\Release\Guna.UI2.dll
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat v3.csproj.AssemblyReference.cache
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.CourseForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.MainForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.LoginForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.ManageCourseForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.ManageScoreForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.ManageStudentForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.PrintCourseForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.PrintScoreForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.PrintStudent.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.Properties.Resources.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.RegisterForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.RegisterUserForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.ScoreForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat_v3.SplashForm.resources
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat v3.csproj.GenerateResource.cache
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat v3.csproj.CoreCompileInputs.cache
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat v3.csproj.CopyComplete
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat v3.exe
+D:\C#\Proiecte\Atestat v3\Atestat v3\Atestat v3\obj\Release\Atestat v3.pdb
